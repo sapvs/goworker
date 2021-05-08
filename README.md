@@ -1,0 +1,2 @@
+# goworker
+Go parallel workers
